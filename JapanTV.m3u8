@@ -170,6 +170,49 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
 
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BS_jp",NHK BS (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs11
+#EXTINF:-1 group-title="BS" tvg-id="BS日テレ_jp",BS NTV (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs02
+#EXTINF:-1 group-title="BS" tvg-id="BS朝日_jp",BS Asahi (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs03
+#EXTINF:-1 group-title="BS" tvg-id="BS-TBS_jp",BS TBS (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs04
+#EXTINF:-1 group-title="BS" tvg-id="BSテレ東_jp",BS TV Tokyo (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs05
+#EXTINF:-1 group-title="BS" tvg-id="BSフジ_jp",BS Fuji (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs06
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BSP_jp",NHK BS4K (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs01
+#EXTINF:-1 group-title="BS" tvg-id="WOWOWプライム_jp",WOWOW Prime (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs12
+#EXTINF:-1 group-title="BS" tvg-id="WOWOWシネマ_jp",WOWOW Cinema (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs07
+#EXTINF:-1 group-title="BS" tvg-id="WOWOWライブ_jp",WOWOW Live (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs20
+#EXTINF:-1 group-title="BS" tvg-id="BS10スターチャンネル_jp",BS 10 Premium (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs08
+#EXTINF:-1 group-title="BS" tvg-id="J-SPORTS-1_jp",JSport 1 (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs18
+#EXTINF:-1 group-title="BS" tvg-id="J-SPORTS-2_jp",JSport 2 (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs19
+#EXTINF:-1 group-title="BS" tvg-id="J-SPORTS-3_jp",JSport 3 (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs21
+#EXTINF:-1 group-title="BS" tvg-id="J-SPORTS-4_jp",JSport 4 (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs22
+#EXTINF:-1 group-title="BS" tvg-id="グリーンチャンネル_jp",Green Channel (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs14
+#EXTINF:-1 group-title="BS" tvg-id="アニマックス_jp",Animax (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs15
+#EXTINF:-1 group-title="BS" tvg-id="日本映画専門チャンネル_jp",Nihon Eiga Senmon (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs23
+#EXTINF:-1 group-title="BS" tvg-id="釣りビジョン_jp",Fishing Vision (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs25
+#EXTINF:-1 group-title="BS" tvg-id="ディズニー・チャンネル_jp",Disney Channel (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs24 
+#EXTINF:-1 group-title="BS" tvg-id="jcom_bs",Jcom BS (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs31
+
 #EXTINF:-1 group-title="CS" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://nl.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="アニメシアター(AT-X)_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
@@ -297,6 +340,67 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="TBS-NEWE_jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
+
+#EXTINF:-1 group-title="CS" tvg-id="時代劇専門チャンネル_jp",Jidaigeki Senmon (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs04
+#EXTINF:-1 group-title="CS" tvg-id="東映チャンネル_jp",Toei Channel (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs27
+#EXTINF:-1 group-title="CS" tvg-id="衛星劇場_jp",Eisei Gekijo (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs22
+#EXTINF:-1 group-title="CS" tvg-id="ファミリー劇場_jp",Family Gekijyo (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs20
+#EXTINF:-1 group-title="CS" tvg-id="ムービープラス_jp",Movie Plus (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs14
+#EXTINF:-1 group-title="CS" tvg-id="ホームドラマチャンネル_jp",Home Drama Channel (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs05
+#EXTINF:-1 group-title="CS" tvg-id="旅チャンネル_jp",Tabi Channel (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs12
+#EXTINF:-1 group-title="CS" tvg-id="フジテレビNEXT_jp",Fuji TV Next (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs26
+#EXTINF:-1 group-title="CS" tvg-id="スカイA_jp",Sky A (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs01
+#EXTINF:-1 group-title="CS" tvg-id="GAORA-SPORTS_jp",Gaora Sports (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs17
+#EXTINF:-1 group-title="CS" tvg-id="ゴルフネットワーク_jp",Golf Network (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs03
+#EXTINF:-1 group-title="CS" tvg-id="日テレジータス_jp",NTV G+ (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs02
+#EXTINF:-1 group-title="CS" tvg-id="MONDOTV_jp",Mondo TV (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs21
+#EXTINF:-1 group-title="CS" tvg-id="チャンネル銀河_jp",Channel Ginga (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs29
+#EXTINF:-1 group-title="CS" tvg-id="スペースシャワーTV_jp",Space Shower TV (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs26
+#EXTINF:-1 group-title="CS" tvg-id="ミュージック・ジャパンTV_jp",Music Japan TV (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs06
+#EXTINF:-1 group-title="CS" tvg-id="歌謡ポップスチャンネル_jp",Kayo Pops (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs13
+#EXTINF:-1 group-title="CS" tvg-id="MTV_jp",MTV (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs18
+#EXTINF:-1 group-title="CS" tvg-id="LaLa-TV_jp",LaLa TV (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs19
+#EXTINF:-1 group-title="CS" tvg-id="タカラヅカ・スカイ・ステージ_jp",Takarazuka Sky Stage (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs28
+#EXTINF:-1 group-title="CS" tvg-id="キッズステーション_jp",Kids Staton TV (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs07
+#EXTINF:-1 group-title="CS" tvg-id="カートゥーン-ネットワーク_jp",Cartoon Network (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs25
+#EXTINF:-1 group-title="CS" tvg-id="natgeo",National Geographic Japan (Primehome) 
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs10
+#EXTINF:-1 group-title="CS" tvg-id="disney_junior",Disney Junior (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs23
+#EXTINF:-1 group-title="CS" tvg-id="discovery_channel",Discovery Channel (Primehome)  
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs08
+#EXTINF:-1 group-title="CS" tvg-id="animal_planet",Animal Planet (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs24
+#EXTINF:-1 group-title="CS" tvg-id="history_channel",History (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs09
+#EXTINF:-1 group-title="CS" tvg-id="CNNj_jp",CNNj (Primehome) 
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
+#EXTINF:-1 group-title="CS" tvg-id="BBCニュース_jp",BBC News (Primehome)  
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
+#EXTINF:-1 group-title="CS" tvg-id="TBS-NEWE_jp",TBS News (Primehome)
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
 
 #RAKUTEN
 

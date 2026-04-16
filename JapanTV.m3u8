@@ -145,6 +145,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 group-title="BS" tvg-id="WOWOWライブ_jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="BS" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS 10
+https://living9.jpantv.live/jp34/playlist.m3u8?token=QA3APiYwbB
+#EXTINF:-1 group-title="BS" tvg-id="BS11-イレブン_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
+https://living9.jpantv.live/jp28/playlist.m3u8?token=QA3APiYwbB
+#EXTINF:-1 group-title="BS" tvg-id="bs12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
+https://living9.jpantv.live/jp29/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="BS10スターチャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="BS" tvg-id="J-SPORTS-1_jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Primehome)
@@ -217,6 +223,8 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs31
 https://nl.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="アニメシアター(AT-X)_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="アニメシアター(AT-X)_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",AT-X(test)
+https://living1.jpantv.live/jp83/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="CS" tvg-id="キッズステーション_jp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidsstation_2025.png",Kids Station
 https://nl.utako.moe/kids_station/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="スペースシャワーTV_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV

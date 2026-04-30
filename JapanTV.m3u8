@@ -285,7 +285,7 @@ https://nl.utako.moe/gingach/index.m3u8
 https://nl.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Pigoo_jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
 https://nl.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+#EXTINF:-1 group-title="CS" tvg-id="V-パラダイス_jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="時代劇専門チャンネル_jp" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
